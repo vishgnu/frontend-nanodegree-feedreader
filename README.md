@@ -23,12 +23,12 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 
 # How will I complete this project?
 
-1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
-2. Review the functionality of the application within your browser.
-3. Explore the application's HTML (*./index.html*), CSS (*./css/style.css*) and JavaScript (*./js/app.js*) to gain an understanding of how it works.
-4. Explore the Jasmine spec file in *./jasmine/spec/feedreader.js*
-5. Edit the allFeeds variable in *./js/app.js* to make the provided test fail and see how Jasmine visualizes this failure in your application.
-6. Return the allFeeds variable to a passing state.
+DONE 1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
+DONE 2. Review the functionality of the application within your browser.
+DONE 3. Explore the application's HTML (*./index.html*), CSS (*./css/style.css*) and JavaScript (*./js/app.js*) to gain an understanding of how it works.
+DONE 4. Explore the Jasmine spec file in *./jasmine/spec/feedreader.js*
+DONE 5. Edit the allFeeds variable in *./js/app.js* to make the provided test fail and see how Jasmine visualizes this failure in your application.
+DONE 6. Return the allFeeds variable to a passing state.
 7. Write a test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty.
 8. Write a test that loops through each feed in the allFeeds object and ensures it has a name defined and that the name is not empty.
 9. Write a new test suite named "The menu".
